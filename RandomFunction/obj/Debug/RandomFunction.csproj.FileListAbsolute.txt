@@ -1,0 +1,7 @@
+C:\Users\Calga\source\repos\RandomFunction\RandomFunction\bin\Debug\RandomFunction.exe.config
+C:\Users\Calga\source\repos\RandomFunction\RandomFunction\bin\Debug\RandomFunction.exe
+C:\Users\Calga\source\repos\RandomFunction\RandomFunction\bin\Debug\RandomFunction.pdb
+C:\Users\Calga\source\repos\RandomFunction\RandomFunction\obj\Debug\RandomFunction.csprojAssemblyReference.cache
+C:\Users\Calga\source\repos\RandomFunction\RandomFunction\obj\Debug\RandomFunction.csproj.CoreCompileInputs.cache
+C:\Users\Calga\source\repos\RandomFunction\RandomFunction\obj\Debug\RandomFunction.exe
+C:\Users\Calga\source\repos\RandomFunction\RandomFunction\obj\Debug\RandomFunction.pdb
